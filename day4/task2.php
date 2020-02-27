@@ -1,7 +1,7 @@
 <?php
 $cars = [ 
 	["Marka"=>"BMW","Model"=>"528"],
-	["Marka"=>"Ford","Model"=>"Mustang"],
+	1=>["Marka"=>"Ford","Model"=>"Mustang"],
 	["Marka"=>"Ferrari","Model"=>"ENZO"],
 	["Marka"=>"AUDI","Model"=>"A7"],
 ];
